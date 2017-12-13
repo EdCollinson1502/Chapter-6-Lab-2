@@ -35,15 +35,17 @@ public class Square
     //--------------------------------------
     public int sumCol(int col)
     {
-        return 0;
+        for(int row = 0; row < square.length; row++){
+            return 0;
+        }
     }
 
     //--------------------------------------
     //return the sum of the values in the main diagonal
     //--------------------------------------
-    public int sumMainDiag()
+    public int sumMainDiag(int[][] nums)
     {
-        return 0;
+        
     }
 
     //--------------------------------------
@@ -60,7 +62,7 @@ public class Square
     //--------------------------------------
     public boolean magic()
     {
-        //Change to work correctly
+         
         return false;
     }
 
@@ -89,13 +91,3 @@ public class Square
      }
 
 }
-
-
-
-// ****************************************************************
-// SquareTester.java
-//
-// Test 4 squares to be magic
-//          
-// ****************************************************************
-
