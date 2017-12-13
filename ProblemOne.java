@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class sdtfygvjhl here.
+ * Write a description of class ProblemOne here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class sdtfygvjhl
+public class ProblemOne
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class sdtfygvjhl
+     * Constructor for objects of class ProblemOne
      */
-    public sdtfygvjhl()
+    public ProblemOne()
     {
         // initialise instance variables
         x = 0;
